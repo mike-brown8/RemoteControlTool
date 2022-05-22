@@ -1,2 +1,2 @@
 # RemoteControlTool
-RemoteScreenShow, RemoteFileTransport, RemoteForceShutdown and more faunctions in one application.
+RemoteScreenShow, RemoteFileTransport, RemoteForceShutdown and more functions in one application.
